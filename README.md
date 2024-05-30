@@ -1,2 +1,2 @@
 # MiniGameMobile
-MinyMobileGame
+MinyMobileGame made with Unity
